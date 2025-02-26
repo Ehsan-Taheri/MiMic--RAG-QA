@@ -6,7 +6,7 @@ The notebook follows a structured approach to working with vector databases:
 
 Data Preparation: Converts input data into high-dimensional vectors using embeddings.
 Vector Storage: Stores vectors in a specialized database optimized for fast similarity searches.
-Querying & Retrieval: Uses similarity metrics (e.g., cosine similarity, Euclidean distance) to retrieve the most relevant vectors.
+Querying & Retrieval: Uses similarity metrics (cosine similarity) to retrieve the most relevant vectors.
 Use Cases: Demonstrates real-world applications such as document retrieval, recommendation systems, and semantic search.
 ## 🛠️ Components Used:
 Python: For scripting and implementation.
